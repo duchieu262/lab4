@@ -51,6 +51,7 @@
             this.bai2.TabIndex = 0;
             this.bai2.Text = "Bài 2";
             this.bai2.UseVisualStyleBackColor = true;
+            this.bai2.Click += new System.EventHandler(this.bai2_Click);
             // 
             // bai3
             // 
