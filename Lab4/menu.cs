@@ -16,5 +16,17 @@ namespace Lab4
         {
             InitializeComponent();
         }
+
+        private void bai1_Click(object sender, EventArgs e)
+        {
+            Bai1 b1 = new Bai1();
+            b1.Show();
+        }
+
+        private void bai3_Click(object sender, EventArgs e)
+        {
+            Bai3 b3 = new Bai3();
+            b3.Show();
+        }
     }
 }
